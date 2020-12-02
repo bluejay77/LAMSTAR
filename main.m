@@ -14,8 +14,8 @@
 % Dr Antti Juhani Ylikoski 2020-09-27
 %
 % Usage:
-% sudo opt-get install octave
-% sudo opt-get install octave-doc
+% sudo apt-get install octave
+% sudo apt-get install octave-doc
 % octave main.m test_pattern.m training_pattern.m
 
 
